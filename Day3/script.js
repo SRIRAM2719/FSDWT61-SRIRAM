@@ -7,6 +7,8 @@ function greet(message) {
   }
   greet("Hello World");
   greet("Good Morning");
+  var oddNumber;
+
   
   /**
    * Basic example that demonstrate the working of functions
