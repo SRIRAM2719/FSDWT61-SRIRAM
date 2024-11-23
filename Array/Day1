@@ -1,0 +1,6 @@
+var scores = [1,2,5,6,7,8];
+function callback (element,index,self){
+    return element * 2
+
+}
+var output = scores.map(callback);[2,4,
